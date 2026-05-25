@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Jaid/guess-runtime.git"
+    "url": "git+https://github.com/Jaid/guess-runtime.git"
   },
   "scripts": {
     "test": "bun test --max-concurrency 1"
